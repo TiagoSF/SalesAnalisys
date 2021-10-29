@@ -1,6 +1,6 @@
 # SalesAnalisys
 
-##Analise de um banco de dados de um supermercado com python
+## Analise de um banco de dados de um supermercado com python
 
 Kaggle database Supermarket sales
 Context
@@ -13,7 +13,7 @@ Qual cidade teve o maior valor em vendas?
 Qual o tipo de produto mais vendido?
 Qual a filial mais bem rankeada pelo público?
 
-gerando uma analise exploratoria dos dados
+gerando uma analise exploratoria dos dados.
 
 
 
