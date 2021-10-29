@@ -15,10 +15,13 @@ Qual a filial mais bem rankeada pelo público?<br/>
 
 <br/>
 
+Bem como visualizando os dados atraves de gráficos <br/>
+
 ![alt text](https://github.com/TiagoSF/SalesAnalisys/blob/main/data/image_1.png?raw=true)
 
+Gerando uma analise exploratoria dos dados. <br/>
 
-Gerando uma analise exploratoria dos dados.
+[linkedin] https://www.linkedin.com/in/tiago-santos-147412123/
 
 
 
