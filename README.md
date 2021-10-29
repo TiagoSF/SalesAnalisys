@@ -9,9 +9,11 @@ more information:https://www.kaggle.com/aungpyaeap/supermarket-sales
 
 Neste trabalho respondemos perguntas sobre esse dataset como:
 
-Qual cidade teve o maior valor em vendas?
-Qual o tipo de produto mais vendido?
-Qual a filial mais bem rankeada pelo público?
+Qual cidade teve o maior valor em vendas? <\br>
+Qual o tipo de produto mais vendido?<\br>
+Qual a filial mais bem rankeada pelo público?<\br>
+
+<\br>
 
 gerando uma analise exploratoria dos dados.
 
