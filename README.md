@@ -21,6 +21,7 @@ Bem como visualizando os dados atraves de gráficos <br/>
 
 Gerando uma analise exploratoria dos dados. <br/>
 
+<br/>
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tiago-santos-147412123/)
 
 
