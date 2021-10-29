@@ -15,6 +15,9 @@ Qual a filial mais bem rankeada pelo público?<br/>
 
 <br/>
 
+![alt text](https://github.com/TiagoSF/SalesAnalisys/blob/main/data/image_1.png?raw=true)
+
+
 Gerando uma analise exploratoria dos dados.
 
 
