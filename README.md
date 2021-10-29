@@ -2,10 +2,10 @@
 
 ## Analise de um banco de dados de um supermercado com python
 
-Kaggle database Supermarket sales
-Context
+Kaggle database Supermarket sales<br />
+Context<br />
 The growth of supermarkets in most populated cities are increasing and market competitions are also high. The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data.
-more information:https://www.kaggle.com/aungpyaeap/supermarket-sales
+more information:https://www.kaggle.com/aungpyaeap/supermarket-sales. <br />
 
 Neste trabalho respondemos perguntas sobre esse dataset como:
 
@@ -15,7 +15,7 @@ Qual a filial mais bem rankeada pelo público?<br/>
 
 <br/>
 
-gerando uma analise exploratoria dos dados.
+Gerando uma analise exploratoria dos dados.
 
 
 
