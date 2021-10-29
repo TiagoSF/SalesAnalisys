@@ -1,6 +1,6 @@
 # SalesAnalisys
 
-## Analise de um banco de dados de um supermercado com python
+## Analise de dados de um supermercado com python
 
 Kaggle database Supermarket sales<br />
 Context<br />
