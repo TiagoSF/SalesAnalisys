@@ -1,4 +1,4 @@
-# SalesAnalisys
+# SalesAnalysis
 
 ## Analise de dados de um supermercado com python
 
